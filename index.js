@@ -13,3 +13,4 @@ let score = prompt ("Enter Marks: "); //prompts the user to input student marks
    console.log ("E");
   
    
+   
