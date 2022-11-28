@@ -1,6 +1,6 @@
 
 let score = prompt ("Enter Marks: "); //prompts the user to input student marks
-  //checking the condition to provide the grade for the student
+  //checking the condition to provide the score  for the student. if grade is not met then check the next grade.
   if (score<=100 && score>=79) 
    console.log ("A");
   else if (score<=79 && score >=60)
@@ -12,4 +12,4 @@ let score = prompt ("Enter Marks: "); //prompts the user to input student marks
   else if (score<=40 && score >=0)
    console.log ("E");
   
-   console.log(grade); //outputs the grade
+   
