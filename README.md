@@ -93,11 +93,10 @@ Running the applications is straightforward requiring one step:
 
 This project was contributed by:
 
-markpaul mwenda muthaura: https://github.com/maqiie
+markpaul mwenda mthaura: https://github.com/maqiie
 
 
 
 ## License
 
-The project is licensed under the GNU General Public License
- 
+The project is licensed under the GNU General Public License 
